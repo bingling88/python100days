@@ -39,4 +39,4 @@ choice=check_user()
 while choice=="report":
     print(f"Water: {resources["water"]}ml")
 
-print("to remove")
+
